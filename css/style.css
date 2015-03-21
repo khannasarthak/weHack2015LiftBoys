@@ -3,3 +3,39 @@ html {
 }
 
 
+#first{
+    
+    background: url(images/Layer-1.png);
+    width: 88px;
+    height: 157px;
+    right: 826px;
+}
+
+#second{
+    color: #656565;
+    font: 200 121.67px Roboto;
+}
+
+#gone{
+    
+    
+    font-weight: 900;
+}
+
+#top{
+    
+    
+}
+
+#moto{
+    font-size: 30px;
+    margin-left: 10%;
+}
+
+#start{
+    height: 117px;
+    width: 468px;
+    font-size: 70px;
+    font: white;
+    padding-top: 30px;
+}
