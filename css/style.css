@@ -52,7 +52,7 @@ html {
 #stuff{
     height: 117px;
     width: 468px;
-    font-size: 70px;
+    font-size: 60px;
     
     padding-top: 35px;
     color:  #00bcd4;
@@ -94,5 +94,11 @@ html {
 }
 
 #result{
+}
+
+#header{
+    background: url(images/MergedLayers.png);
+    width: 419px;
+    height: 95px;
     
 }
