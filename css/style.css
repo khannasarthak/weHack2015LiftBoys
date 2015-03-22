@@ -27,6 +27,10 @@ html {
     
 }
 
+#result{
+font: 200 70px Roboto;
+}
+
 #moto{
     font-size: 30px;
     margin-left: 10%;
@@ -94,6 +98,8 @@ html {
 }
 
 #result{
+    color:black;
+    font-family: Roboto;
 }
 
 #header{
